@@ -1,0 +1,141 @@
+[submodule "system"]
+	path = system
+	url = git://github.com/kohana/core.git
+[submodule "modules/codebench"]
+	path = modules/codebench
+	url = git://github.com/kohana/codebench.git
+[submodule "modules/database"]
+	path = modules/database
+	url = git://github.com/kohana/database.git
+[submodule "modules/image"]
+	path = modules/image
+	url = git://github.com/kohana/image.git
+[submodule "modules/orm"]
+	path = modules/orm
+	url = git://github.com/kohana/orm.git
+[submodule "modules/pagination"]
+	path = modules/pagination
+	url = git://github.com/kohana/pagination.git
+[submodule "modules/auth"]
+	path = modules/auth
+	url = git://github.com/kohana/auth.git
+[submodule "modules/userguide"]
+	path = modules/userguide
+	url = git://github.com/kohana/userguide.git
+[submodule "modules/sprig"]
+	path = modules/sprig
+	url = git://github.com/shadowhand/sprig.git
+[submodule "sprig-auth"]
+	path = sprig-auth
+	url = git://github.com/banks/sprig-auth.git
+[submodule "modules/a1"]
+	path = modules/a1
+	url = git://github.com/Wouterrr/A1.git
+[submodule "modules/a2"]
+	path = modules/a2
+	url = git://github.com/Wouterrr/A2.git
+[submodule "modules/acl"]
+	path = modules/acl
+	url = git://github.com/Wouterrr/ACL.git
+[submodule "modules/sprig-auth"]
+	path = modules/sprig-auth
+	url = git://github.com/banks/sprig-auth.git
+[submodule "modules/mangodb"]
+	path = modules/mangodb
+	url = git://github.com/Wouterrr/MangoDB.git
+[submodule "modules/shindig"]
+	path = modules/shindig
+	url = git://github.com/kerkness/shindig.git
+[submodule "modules/authlite"]
+	path = modules/authlite
+	url = git://github.com/fredwu/authlite.git
+[submodule "modules/kocode"]
+	path = modules/kocode
+	url = git://github.com/Zeelot/kocode.git
+[submodule "modules/sprig-mptt"]
+	path = modules/sprig-mptt
+	url = git://github.com/banks/sprig-mptt.git
+[submodule "modules/captcha"]
+	path = modules/captcha
+	url = git://github.com/kolanos/kohana-captcha.git
+[submodule "modules/email"]
+	path = modules/email
+	url = git://github.com/banks/kohana-email.git
+[submodule "modules/cache"]
+	path = modules/cache
+	url = git://github.com/samsoir/kohana-cache.git
+[submodule "modules/unittest-legacy"]
+	path = modules/unittest-legacy
+	url = git://github.com/shadowhand/kohana-unittest.git
+[submodule "modules/unittest"]
+	path = modules/unittest
+	url = git://github.com/kohana/unittest.git
+[submodule "modules/paypal"]
+	path = modules/paypal
+	url = git://github.com/shadowhand/paypal.git
+[submodule "modules/event"]
+	path = modules/event
+	url = git://github.com/ollym/event.git
+[submodule "modules/daemon"]
+	path = modules/daemon
+	url = git://github.com/ollym/daemon.git
+[submodule "modules/migration"]
+	path = modules/migration
+	url = git://github.com/ollym/migration.git
+[submodule "modules/dbforge"]
+	path = modules/dbforge
+	url = git://github.com/ollym/dbforge.git
+[submodule "modules/dispatcher"]
+	path = modules/dispatcher
+	url = git://github.com/BRMatt/Kohana-Dispatcher.git
+[submodule "modules/table"]
+	path = modules/table
+	url = git://github.com/kerkness/kohana-table.git
+[submodule "modules/twitter"]
+	path = modules/twitter
+	url = git://github.com/transphorm/twitter.git
+[submodule "modules/hook"]
+	path = modules/hook
+	url = git://github.com/BRMatt/kohana-hook.git
+[submodule "modules/gravatar"]
+	path = modules/gravatar
+	url = git://github.com/samsoir/kohana-gravatar.git
+[submodule "modules/task-queue"]
+	path = modules/task-queue
+	url = git://github.com/jonnyjon/Task-Queue.git
+[submodule "modules/gui"]
+	path = modules/gui
+	url = git://github.com/kerkness/gui.git
+[submodule "modules/todoist"]
+	path = modules/todoist
+	url = git://github.com/shadowhand/kohana-todoist.git
+[submodule "modules/pdfview"]
+	path = modules/pdfview
+	url = git://github.com/shadowhand/pdfview.git
+[submodule "modules/tim"]
+	path = modules/tim
+	url = git://github.com/Xobb/TIM-for-kohana-3.git
+[submodule "modules/aacl"]
+	path = modules/aacl
+	url = git://github.com/banks/aacl.git
+[submodule "modules/gcheckout"]
+	path = modules/gcheckout
+	url = git://github.com/shadowhand/gcheckout.git
+[submodule "modules/akismet"]
+	path = modules/akismet
+	url = git://github.com/Greenek/kohana3-akismet.git
+[submodule "modules/swiftmailer"]
+	path = modules/swiftmailer
+	url = git://github.com/themusicman/ko3-swiftmailer.git
+[submodule "modules/console"]
+	path = modules/console
+	url = git://github.com/daveWid/console.git
+[submodule "modules/epoxy"]
+	path = modules/epoxy
+	url = git://github.com/samsoir/kohana-epoxy.git
+[submodule "modules/super-cache"]
+	path = modules/super-cache
+	url = git://github.com/FerumFlex/kohana-super-cache.git
+[submodule "modules/cron"]
+	path = modules/cron
+	url = git://github.com/cbandy/kohana-cron.git
