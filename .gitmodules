@@ -166,3 +166,18 @@
 [submodule "modules/oacl"]
 	path = modules/oacl
 	url = git://github.com/ollym/acl.git
+[submodule "modules/langify"]
+	path = modules/langify
+	url = git://github.com/copy112/langify.git
+[submodule "modules/asset"]
+	path = modules/asset
+	url = git://github.com/jonathangeiger/kohana-asset.git
+[submodule "modules/jelly"]
+	path = modules/jelly
+	url = git://github.com/jonathangeiger/kohana-jelly.git
+[submodule "modules/page-cache"]
+	path = modules/page-cache
+	url = git://github.com/jonathangeiger/kohana-page-cache.git
+[submodule "modules/github"]
+	path = modules/github
+	url = git://github.com/transphorm/github.git
