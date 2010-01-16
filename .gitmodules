@@ -139,3 +139,30 @@
 [submodule "modules/cron"]
 	path = modules/cron
 	url = git://github.com/cbandy/kohana-cron.git
+[submodule "modules/twig"]
+	path = modules/twig
+	url = git://github.com/jheathco/kohana-twig.git
+[submodule "modules/smarty"]
+	path = modules/smarty
+	url = git://github.com/MrAnchovy/kohana-module-smarty.git
+[submodule "modules/wordpress"]
+	path = modules/wordpress
+	url = git://github.com/kerkness/wordpress-for-kohana.git
+[submodule "modules/slicehost"]
+	path = modules/slicehost
+	url = git://github.com/transphorm/slicehost.git
+[submodule "modules/devilities"]
+	path = modules/devilities
+	url = git://github.com/BRMatt/Devilities.git
+[submodule "modules/dom-query"]
+	path = modules/dom-query
+	url = git://github.com/samsoir/kohana-dom-query.git
+[submodule "modules/date"]
+	path = modules/date
+	url = git://github.com/BRMatt/kohana-date.git
+[submodule "modules/firephp"]
+	path = modules/firephp
+	url = git://github.com/pedrosland/kohana-firephp.git
+[submodule "modules/oacl"]
+	path = modules/oacl
+	url = git://github.com/ollym/acl.git
