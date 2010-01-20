@@ -181,3 +181,24 @@
 [submodule "modules/github"]
 	path = modules/github
 	url = git://github.com/transphorm/github.git
+[submodule "modules/sitemap"]
+	path = modules/sitemap
+	url = git://github.com/ThePixelDeveloper/Sitemap.git
+[submodule "modules/cache2"]
+	path = modules/cache2
+	url = git://github.com/necros/kohana-cache.git
+[submodule "modules/event2"]
+	path = modules/event2
+	url = git://github.com/Zeelot/event.git
+[submodule "modules/mangoqueue"]
+	path = modules/mangoqueue
+	url = git://github.com/Wouterrr/mangoQueue.git
+[submodule "modules/flashdatanator"]
+	path = modules/flashdatanator
+	url = git://github.com/dyson/flashdatanator.git
+[submodule "modules/mangodemo"]
+	path = modules/mangodemo
+	url = git://github.com/Wouterrr/MangoDemo.git
+[submodule "modules/mangoutils"]
+	path = modules/mangoutils
+	url = git://github.com/Wouterrr/MangoUtils.git
