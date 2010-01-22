@@ -202,3 +202,6 @@
 [submodule "modules/mangoutils"]
 	path = modules/mangoutils
 	url = git://github.com/Wouterrr/MangoUtils.git
+[submodule "modules/calais"]
+	path = modules/calais
+	url = git://github.com/kolanos/kohana-calais.git
