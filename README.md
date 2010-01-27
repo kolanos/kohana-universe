@@ -1,4 +1,4 @@
-#67+ Kohana 3.x Modules in 3 Commands
+#69+ Kohana 3.x Modules in 3 Commands
 
 > git clone git://github.com/kolanos/kohana-universe.git kohana-universe
 

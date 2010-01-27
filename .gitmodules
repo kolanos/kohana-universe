@@ -205,3 +205,6 @@
 [submodule "modules/calais"]
 	path = modules/calais
 	url = git://github.com/kolanos/kohana-calais.git
+[submodule "modules/zend"]
+	path = modules/zend
+	url = git://github.com/kolanos/kohana-zend.git
