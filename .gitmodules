@@ -1,6 +1,3 @@
-[submodule "system"]
-	path = system
-	url = git://github.com/kohana/core.git
 [submodule "modules/codebench"]
 	path = modules/codebench
 	url = git://github.com/kohana/codebench.git
@@ -163,9 +160,6 @@
 [submodule "modules/firephp"]
 	path = modules/firephp
 	url = git://github.com/pedrosland/kohana-firephp.git
-[submodule "modules/oacl"]
-	path = modules/oacl
-	url = git://github.com/ollym/acl.git
 [submodule "modules/langify"]
 	path = modules/langify
 	url = git://github.com/copy112/langify.git
@@ -175,9 +169,6 @@
 [submodule "modules/jelly"]
 	path = modules/jelly
 	url = git://github.com/jonathangeiger/kohana-jelly.git
-[submodule "modules/page-cache"]
-	path = modules/page-cache
-	url = git://github.com/jonathangeiger/kohana-page-cache.git
 [submodule "modules/github"]
 	path = modules/github
 	url = git://github.com/transphorm/github.git
@@ -214,3 +205,6 @@
 [submodule "modules/sphinx"]
 	path = modules/sphinx
 	url = git://github.com/Zoxive/SphinxKohana.git
+[submodule "system"]
+	path = system
+	url = git://github.com/kohana/core.git
