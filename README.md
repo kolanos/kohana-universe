@@ -4,8 +4,12 @@
 
 > cd kohana-universe
 
-> git submodule init
+> git submodule update --init
 
 And to update them all...
 
+> git pull
+
 > git submodule update
+
+Submodules will be updated daily.
