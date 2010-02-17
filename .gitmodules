@@ -166,9 +166,6 @@
 [submodule "modules/asset"]
 	path = modules/asset
 	url = git://github.com/jonathangeiger/kohana-asset.git
-[submodule "modules/jelly"]
-	path = modules/jelly
-	url = git://github.com/jonathangeiger/kohana-jelly.git
 [submodule "modules/github"]
 	path = modules/github
 	url = git://github.com/transphorm/github.git
@@ -211,3 +208,6 @@
 [submodule "modules/message"]
 	path = modules/message
 	url = git://github.com/daveWid/message.git
+[submodule "modules/jelly"]
+	path = modules/jelly
+	url = git://github.com/jonathangeiger/kohana-jelly.git
