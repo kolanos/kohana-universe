@@ -208,3 +208,6 @@
 [submodule "system"]
 	path = system
 	url = git://github.com/kohana/core.git
+[submodule "modules/message"]
+	path = modules/message
+	url = git://github.com/daveWid/message.git
