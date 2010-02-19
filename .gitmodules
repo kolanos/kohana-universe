@@ -196,9 +196,6 @@
 [submodule "modules/zend"]
 	path = modules/zend
 	url = git://github.com/kolanos/kohana-zend.git
-[submodule "modules/kohanut"]
-	path = modules/kohanut
-	url = git://github.com/bluehawk/kohanut-core.git
 [submodule "modules/sphinx"]
 	path = modules/sphinx
 	url = git://github.com/Zoxive/SphinxKohana.git
@@ -211,3 +208,9 @@
 [submodule "modules/jelly"]
 	path = modules/jelly
 	url = git://github.com/jonathangeiger/kohana-jelly.git
+[submodule "modules/kohanut"]
+	path = modules/kohanut
+	url = git://github.com/bluehawk/kohanut-core.git
+[submodule "modules/sprig-banks"]
+	path = modules/sprig-banks
+	url = git://github.com/banks/sprig.git
