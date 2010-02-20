@@ -7,9 +7,6 @@
 [submodule "modules/image"]
 	path = modules/image
 	url = git://github.com/kohana/image.git
-[submodule "modules/orm"]
-	path = modules/orm
-	url = git://github.com/kohana/orm.git
 [submodule "modules/pagination"]
 	path = modules/pagination
 	url = git://github.com/kohana/pagination.git
@@ -214,3 +211,6 @@
 [submodule "modules/sprig-banks"]
 	path = modules/sprig-banks
 	url = git://github.com/banks/sprig.git
+[submodule "modules/orm"]
+	path = modules/orm
+	url = git://github.com/kohana/orm.git
