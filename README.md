@@ -1,4 +1,4 @@
-#72+ Kohana 3.x Modules in 3 Commands
+#77+ Kohana 3.x Modules in 3 Commands
 
 > git clone git://github.com/kolanos/kohana-universe.git kohana-universe
 
@@ -12,4 +12,4 @@ And to update them all...
 
 > git submodule update
 
-Submodules will be updated daily.
+Submodules indexes will be updated daily.

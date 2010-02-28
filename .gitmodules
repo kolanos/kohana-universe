@@ -217,3 +217,21 @@
 [submodule "modules/jelly-auth"]
 	path = modules/jelly-auth
 	url = git://github.com/raeldc/jelly-auth.git
+[submodule "modules/b8"]
+	path = modules/b8
+	url = git://github.com/stensi/Kohana-B8.git
+[submodule "modules/debug-toolbar"]
+	path = modules/debug-toolbar
+	url = git://github.com/biakaveron/debug-toolbar.git
+[submodule "modules/editor"]
+	path = modules/editor
+	url = git://github.com/biakaveron/editor.git
+[submodule "modules/archive"]
+	path = modules/archive
+	url = git://github.com/BRMatt/kohana-archive.git
+[submodule "modules/minify"]
+	path = modules/minify
+	url = git://github.com/zazu/minify.git
+[submodule "modules/bamboo"]
+	path = modules/bamboo
+	url = git://github.com/vitch/bamboo.git
