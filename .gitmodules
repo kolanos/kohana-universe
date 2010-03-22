@@ -241,3 +241,6 @@
 [submodule "modules/tags"]
 	path = modules/tags
 	url = git://github.com/glydetech/ko3.tags.git
+[submodule "modules/geocode"]
+	path = modules/geocode
+	url = git://github.com/kolanos/kohana-geocode.git
