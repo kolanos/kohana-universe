@@ -157,9 +157,6 @@
 [submodule "modules/firephp"]
 	path = modules/firephp
 	url = git://github.com/pedrosland/kohana-firephp.git
-[submodule "modules/langify"]
-	path = modules/langify
-	url = git://github.com/copy112/langify.git
 [submodule "modules/asset"]
 	path = modules/asset
 	url = git://github.com/jonathangeiger/kohana-asset.git
@@ -247,3 +244,12 @@
 [submodule "modules/yform"]
 	path = modules/yform
 	url = git://github.com/Zeelot/YForm.git
+[submodule "modules/jelly-folly"]
+	path = modules/jelly-folly
+	url = git://github.com/justus/folly.git
+[submodule "modules/seo"]
+	path = modules/seo
+	url = git://github.com/glamorous/kohana-seo.git
+[submodule "modules/kohaml"]
+	path = modules/kohaml
+	url = git://github.com/transphorm/kohaml.git
