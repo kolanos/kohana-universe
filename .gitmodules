@@ -253,3 +253,12 @@
 [submodule "modules/kohaml"]
 	path = modules/kohaml
 	url = git://github.com/transphorm/kohaml.git
+[submodule "modules/csrf"]
+	path = modules/csrf
+	url = git://github.com/synapsestudios/kohana-csrf.git
+[submodule "modules/errors"]
+	path = modules/errors
+	url = git://github.com/synapsestudios/kohana-errors.git
+[submodule "modules/notices"]
+	path = modules/notices
+	url = git://github.com/synapsestudios/kohana-notices.git
