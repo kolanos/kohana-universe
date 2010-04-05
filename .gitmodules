@@ -262,3 +262,6 @@
 [submodule "modules/notices"]
 	path = modules/notices
 	url = git://github.com/synapsestudios/kohana-notices.git
+[submodule "modules/langify"]
+	path = modules/langify
+	url = git://github.com/hinton/langify.git
