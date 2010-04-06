@@ -265,3 +265,12 @@
 [submodule "modules/langify"]
 	path = modules/langify
 	url = git://github.com/hinton/langify.git
+[submodule "modules/debug"]
+	path = modules/debug
+	url = git://github.com/synapsestudios/kohana-debug.git
+[submodule "modules/ipsum"]
+	path = modules/ipsum
+	url = git://github.com/synapsestudios/kohana-ipsum.git
+[submodule "modules/jssettings"]
+	path = modules/jssettings
+	url = git://github.com/synapsestudios/kohana-jssettings.git
