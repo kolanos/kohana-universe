@@ -274,3 +274,9 @@
 [submodule "modules/jssettings"]
 	path = modules/jssettings
 	url = git://github.com/synapsestudios/kohana-jssettings.git
+[submodule "modules/xml"]
+	path = modules/xml
+	url = git://github.com/ccazette/Kohana_XML.git
+[submodule "modules/xdatabase"]
+	path = modules/xdatabase
+	url = git://github.com/approots/xdatabase.git
