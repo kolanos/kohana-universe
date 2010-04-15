@@ -241,9 +241,6 @@
 [submodule "modules/geocode"]
 	path = modules/geocode
 	url = git://github.com/kolanos/kohana-geocode.git
-[submodule "modules/yform"]
-	path = modules/yform
-	url = git://github.com/Zeelot/YForm.git
 [submodule "modules/jelly-folly"]
 	path = modules/jelly-folly
 	url = git://github.com/justus/folly.git
@@ -271,12 +268,12 @@
 [submodule "modules/ipsum"]
 	path = modules/ipsum
 	url = git://github.com/synapsestudios/kohana-ipsum.git
-[submodule "modules/jssettings"]
-	path = modules/jssettings
-	url = git://github.com/synapsestudios/kohana-jssettings.git
 [submodule "modules/xml"]
 	path = modules/xml
 	url = git://github.com/ccazette/Kohana_XML.git
 [submodule "modules/xdatabase"]
 	path = modules/xdatabase
 	url = git://github.com/approots/xdatabase.git
+[submodule "modules/cdm"]
+	path = modules/cdm
+	url = git://github.com/jylinman/kohana-cdm.git
