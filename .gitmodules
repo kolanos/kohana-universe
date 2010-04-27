@@ -43,9 +43,6 @@
 [submodule "modules/authlite"]
 	path = modules/authlite
 	url = git://github.com/fredwu/authlite.git
-[submodule "modules/kocode"]
-	path = modules/kocode
-	url = git://github.com/Zeelot/kocode.git
 [submodule "modules/sprig-mptt"]
 	path = modules/sprig-mptt
 	url = git://github.com/banks/sprig-mptt.git
