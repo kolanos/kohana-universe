@@ -274,3 +274,51 @@
 [submodule "modules/cdm"]
 	path = modules/cdm
 	url = git://github.com/jylinman/kohana-cdm.git
+[submodule "modules/footsteps"]
+	path = modules/footsteps
+	url = git://github.com/jmhobbs/kohana-footsteps.git
+[submodule "modules/ajax"]
+	path = modules/ajax
+	url = git://github.com/28litres/ajax.git
+[submodule "modules/aws"]
+	path = modules/aws
+	url = git://github.com/jylinman/kohana-aws.git
+[submodule "modules/amfphp"]
+	path = modules/amfphp
+	url = git://github.com/jylinman/kohana-amfphp.git
+[submodule "modules/grid"]
+	path = modules/grid
+	url = git://github.com/vimofthevine/grid.git
+[submodule "modules/sentry"]
+	path = modules/sentry
+	url = git://github.com/vimofthevine/sentry.git
+[submodule "modules/dbnav"]
+	path = modules/dbnav
+	url = git://github.com/tayles/kohana-dbnav.git
+[submodule "modules/versioned"]
+	path = modules/versioned
+	url = git://github.com/vimofthevine/versioned.git
+[submodule "modules/layout"]
+	path = modules/layout
+	url = git://github.com/marcalj/kohana-layout.git
+[submodule "modules/oauth"]
+	path = modules/oauth
+	url = git://github.com/mintbridge/kohana-oauth.git
+[submodule "modules/circuit-breaker"]
+	path = modules/circuit-breaker
+	url = git://github.com/samsoir/kohana-circuit-breaker.git
+[submodule "modules/thumbler"]
+	path = modules/thumbler
+	url = git://github.com/homm/thumbler.git
+[submodule "modules/plater"]
+	path = modules/plater
+	url = git://github.com/homm/plater.git
+[submodule "modules/syslog"]
+	path = modules/syslog
+	url = git://github.com/zombor/Kohana-Syslog.git
+[submodule "modules/stacks"]
+	path = modules/stacks
+	url = git://github.com/ahutchings/kohana-stacks.git
+[submodule "modules/notify"]
+	path = modules/notify
+	url = git://github.com/kaltar/Notify.git
