@@ -322,3 +322,9 @@
 [submodule "modules/notify"]
 	path = modules/notify
 	url = git://github.com/kaltar/Notify.git
+[submodule "modules/geshi"]
+	path = modules/geshi
+	url = git://github.com/JustLikeIcarus/kohana-geshi.git
+[submodule "modules/yform"]
+	path = modules/yform
+	url = git://github.com/synapsestudios/kohana-yform.git
