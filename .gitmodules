@@ -313,9 +313,6 @@
 [submodule "modules/plater"]
 	path = modules/plater
 	url = git://github.com/homm/plater.git
-[submodule "modules/syslog"]
-	path = modules/syslog
-	url = git://github.com/zombor/Kohana-Syslog.git
 [submodule "modules/stacks"]
 	path = modules/stacks
 	url = git://github.com/ahutchings/kohana-stacks.git
@@ -328,3 +325,6 @@
 [submodule "modules/yform"]
 	path = modules/yform
 	url = git://github.com/synapsestudios/kohana-yform.git
+[submodule "modules/less"]
+	path = modules/less
+	url = git://github.com/mongeslani/kohana-less.git
