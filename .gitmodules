@@ -328,3 +328,15 @@
 [submodule "modules/less"]
 	path = modules/less
 	url = git://github.com/mongeslani/kohana-less.git
+[submodule "modules/calendar"]
+	path = modules/calendar
+	url = git://github.com/samwilson/kohana_calendar.git
+[submodule "modules/webdb"]
+	path = modules/webdb
+	url = git://github.com/samwilson/kohana_webdb.git
+[submodule "modules/stache"]
+	path = modules/stache
+	url = git://github.com/zombor/KOstache.git
+[submodule "modules/auto-modeler"]
+	path = modules/auto-modeler
+	url = git://github.com/zombor/Auto-Modeler.git
