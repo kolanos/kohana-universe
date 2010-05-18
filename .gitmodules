@@ -160,9 +160,6 @@
 [submodule "modules/github"]
 	path = modules/github
 	url = git://github.com/transphorm/github.git
-[submodule "modules/sitemap"]
-	path = modules/sitemap
-	url = git://github.com/ThePixelDeveloper/Sitemap.git
 [submodule "modules/cache2"]
 	path = modules/cache2
 	url = git://github.com/necros/kohana-cache.git
@@ -337,6 +334,6 @@
 [submodule "modules/stache"]
 	path = modules/stache
 	url = git://github.com/zombor/KOstache.git
-[submodule "modules/auto-modeler"]
-	path = modules/auto-modeler
-	url = git://github.com/zombor/Auto-Modeler.git
+[submodule "modules/sitemap"]
+	path = modules/sitemap
+	url = git://github.com/ThePixelDeveloper/kohana-sitemap.git
