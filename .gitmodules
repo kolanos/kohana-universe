@@ -85,9 +85,6 @@
 [submodule "modules/twitter"]
 	path = modules/twitter
 	url = git://github.com/transphorm/twitter.git
-[submodule "modules/hook"]
-	path = modules/hook
-	url = git://github.com/BRMatt/kohana-hook.git
 [submodule "modules/gravatar"]
 	path = modules/gravatar
 	url = git://github.com/samsoir/kohana-gravatar.git
@@ -337,3 +334,6 @@
 [submodule "modules/sitemap"]
 	path = modules/sitemap
 	url = git://github.com/ThePixelDeveloper/kohana-sitemap.git
+[submodule "modules/hook"]
+	path = modules/hook
+	url = git://github.com/BRMatt/deprecated-kohana-hook.git
