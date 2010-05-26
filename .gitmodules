@@ -337,3 +337,6 @@
 [submodule "modules/hook"]
 	path = modules/hook
 	url = git://github.com/BRMatt/deprecated-kohana-hook.git
+[submodule "modules/mailer"]
+	path = modules/mailer
+	url = git://github.com/themusicman/Mailer.git
