@@ -340,3 +340,6 @@
 [submodule "modules/mailer"]
 	path = modules/mailer
 	url = git://github.com/themusicman/Mailer.git
+[submodule "modules/validation"]
+	path = modules/validation
+	url = git://github.com/themusicman/Validation.git
