@@ -232,9 +232,6 @@
 [submodule "modules/geocode"]
 	path = modules/geocode
 	url = git://github.com/kolanos/kohana-geocode.git
-[submodule "modules/jelly-folly"]
-	path = modules/jelly-folly
-	url = git://github.com/justus/folly.git
 [submodule "modules/seo"]
 	path = modules/seo
 	url = git://github.com/glamorous/kohana-seo.git
@@ -343,3 +340,9 @@
 [submodule "modules/validation"]
 	path = modules/validation
 	url = git://github.com/themusicman/Validation.git
+[submodule "modules/purifier"]
+	path = modules/purifier
+	url = git://github.com/shadowhand/purifier.git
+[submodule "modules/jelly-folly"]
+	path = modules/jelly-folly
+	url = git://github.com/shadowhand/folly.git
