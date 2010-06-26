@@ -346,3 +346,69 @@
 [submodule "modules/database-mssql"]
 	path = modules/database-mssql
 	url = git://github.com/xrado/kohana-mssql.git
+[submodule "modules/formo"]
+	path = modules/formo
+	url = git://github.com/bmidget/kohana-formo.git
+[submodule "modules/mongodb-odm"]
+	path = modules/mongodb-odm
+	url = git://github.com/colinmollenhour/mongodb-php-odm.git
+[submodule "modules/class-view"]
+	path = modules/class-view
+	url = git://github.com/zombor/Kohana-View.git
+[submodule "modules/admin"]
+	path = modules/admin
+	url = git://github.com/vimofthevine/kohana-admin.git
+[submodule "modules/jssettings"]
+	path = modules/jssettings
+	url = git://github.com/synapsestudios/kohana-jssettings.git
+[submodule "modules/rbac"]
+	path = modules/rbac
+	url = git://github.com/lzyy/kohana-rbac.git
+[submodule "modules/jelly-mptt"]
+	path = modules/jelly-mptt
+	url = git://github.com/AlexKupreev/jelly-mptt.git
+[submodule "modules/auto-modeler"]
+	path = modules/auto-modeler
+	url = git://github.com/zombor/Auto-Modeler.git
+[submodule "modules/vk"]
+	path = modules/vk
+	url = git://github.com/Slaver/vk.git
+[submodule "modules/oauth2"]
+	path = modules/oauth2
+	url = git://github.com/kohana/oauth.git
+[submodule "modules/webclient"]
+	path = modules/webclient
+	url = git://github.com/SyrusAkbary/Webclient-Kohana.git
+[submodule "modules/cassandra"]
+	path = modules/cassandra
+	url = git://github.com/jylinman/kohana-cdm.git
+[submodule "modules/database-postgresql"]
+	path = modules/database-postgresql
+	url = git://github.com/cbandy/kohana-postgresql.git
+[submodule "modules/pngtext"]
+	path = modules/pngtext
+	url = git://github.com/jheathco/kohana-pngtext.git
+[submodule "modules/azimauth"]
+	path = modules/azimauth
+	url = git://github.com/tommusic/Kohana-Azimauth.git
+[submodule "modules/orm-mptt"]
+	path = modules/orm-mptt
+	url = git://github.com/evopix/orm-mptt.git
+[submodule "modules/jelly-formo"]
+	path = modules/jelly-formo
+	url = git://github.com/bmidget/kohana-formo-jelly.git
+[submodule "modules/orm-form"]
+	path = modules/orm-form
+	url = git://github.com/Azuka/Kohana-ORMForm.git
+[submodule "modules/breadcrumbs"]
+	path = modules/breadcrumbs
+	url = git://github.com/kierangraham/breadcrumbs.git
+[submodule "modules/media"]
+	path = modules/media
+	url = git://github.com/azampagl/kohana-media.git
+[submodule "modules/orm-glue"]
+	path = modules/orm-glue
+	url = git://github.com/rlm80/glue-orm.git
+[submodule "modules/geoip3"]
+	path = modules/geoip3
+	url = git://github.com/ryross/geoip3.git
