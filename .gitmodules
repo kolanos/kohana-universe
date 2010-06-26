@@ -412,3 +412,12 @@
 [submodule "modules/geoip3"]
 	path = modules/geoip3
 	url = git://github.com/ryross/geoip3.git
+[submodule "modules/phpass"]
+	path = modules/phpass
+	url = git://github.com/Riu/phpass.git
+[submodule "modules/sprig-versioned"]
+	path = modules/sprig-versioned
+	url = git://github.com/vimofthevine/versioned.git
+[submodule "modules/gmaps"]
+	path = modules/gmaps
+	url = git://github.com/guillermin/gmaps.git
