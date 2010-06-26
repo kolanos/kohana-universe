@@ -331,9 +331,6 @@
 [submodule "modules/sitemap"]
 	path = modules/sitemap
 	url = git://github.com/ThePixelDeveloper/kohana-sitemap.git
-[submodule "modules/hook"]
-	path = modules/hook
-	url = git://github.com/BRMatt/deprecated-kohana-hook.git
 [submodule "modules/mailer"]
 	path = modules/mailer
 	url = git://github.com/themusicman/Mailer.git
@@ -346,3 +343,6 @@
 [submodule "modules/jelly-folly"]
 	path = modules/jelly-folly
 	url = git://github.com/shadowhand/folly.git
+[submodule "modules/database-mssql"]
+	path = modules/database-mssql
+	url = git://github.com/xrado/kohana-mssql.git
