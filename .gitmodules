@@ -358,9 +358,6 @@
 [submodule "modules/admin"]
 	path = modules/admin
 	url = git://github.com/vimofthevine/kohana-admin.git
-[submodule "modules/jssettings"]
-	path = modules/jssettings
-	url = git://github.com/synapsestudios/kohana-jssettings.git
 [submodule "modules/rbac"]
 	path = modules/rbac
 	url = git://github.com/lzyy/kohana-rbac.git
@@ -421,3 +418,6 @@
 [submodule "modules/gmaps"]
 	path = modules/gmaps
 	url = git://github.com/guillermin/gmaps.git
+[submodule "modules/phamlp"]
+	path = modules/phamlp
+	url = git://github.com/fredwu/kohana-phamlp.git
