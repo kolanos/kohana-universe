@@ -421,3 +421,9 @@
 [submodule "modules/phamlp"]
 	path = modules/phamlp
 	url = git://github.com/fredwu/kohana-phamlp.git
+[submodule "modules/storage"]
+	path = modules/storage
+	url = git://github.com/cbandy/kohana-storage.git
+[submodule "modules/log"]
+	path = modules/log
+	url = git://github.com/lzyy/kohana-log.git
