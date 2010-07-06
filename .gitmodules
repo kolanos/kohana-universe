@@ -427,3 +427,33 @@
 [submodule "modules/log"]
 	path = modules/log
 	url = git://github.com/lzyy/kohana-log.git
+[submodule "modules/form-object"]
+	path = modules/form-object
+	url = git://github.com/wadechristie/Kohana-FormObject.git
+[submodule "modules/jelly-torn"]
+	path = modules/jelly-torn
+	url = git://github.com/TdroL/kohana-jelly-torn.git
+[submodule "modules/gtasks"]
+	path = modules/gtasks
+	url = git://github.com/ahutchings/kohana-gtasks.git
+[submodule "modules/solr"]
+	path = modules/solr
+	url = git://github.com/Zoxive/Kohana-Solr.git
+[submodule "modules/charts"]
+	path = modules/charts
+	url = git://github.com/ae0000/kohana-charts.git
+[submodule "modules/search"]
+	path = modules/search
+	url = git://github.com/evopix/kohana-search.git
+[submodule "modules/konsole"]
+	path = modules/konsole
+	url = git://github.com/icyleaf/konsole.git
+[submodule "modules/affiliate"]
+	path = modules/affiliate
+	url = git://github.com/jeremeamia/kohana-affiliate.git
+[submodule "modules/blog"]
+	path = modules/blog
+	url = git://github.com/vimofthevine/kohana-blog.git
+[submodule "modules/dbmanager"]
+	path = modules/dbmanager
+	url = git://github.com/icyleaf/dbmanager.git
