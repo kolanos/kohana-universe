@@ -178,15 +178,9 @@
 [submodule "modules/calais"]
 	path = modules/calais
 	url = git://github.com/kolanos/kohana-calais.git
-[submodule "modules/zend"]
-	path = modules/zend
-	url = git://github.com/kolanos/kohana-zend.git
 [submodule "modules/sphinx"]
 	path = modules/sphinx
 	url = git://github.com/Zoxive/SphinxKohana.git
-[submodule "system"]
-	path = system
-	url = git://github.com/kohana/core.git
 [submodule "modules/message"]
 	path = modules/message
 	url = git://github.com/daveWid/message.git
@@ -313,9 +307,6 @@
 [submodule "modules/geshi"]
 	path = modules/geshi
 	url = git://github.com/JustLikeIcarus/kohana-geshi.git
-[submodule "modules/yform"]
-	path = modules/yform
-	url = git://github.com/synapsestudios/kohana-yform.git
 [submodule "modules/less"]
 	path = modules/less
 	url = git://github.com/mongeslani/kohana-less.git
@@ -457,3 +448,12 @@
 [submodule "modules/dbmanager"]
 	path = modules/dbmanager
 	url = git://github.com/icyleaf/dbmanager.git
+[submodule "system"]
+	path = system
+	url = git://github.com/kohana/core.git
+[submodule "modules/yform"]
+	path = modules/yform
+	url = git://github.com/synapsestudios/kohana-yform.git
+[submodule "modules/zend"]
+	path = modules/zend
+	url = git://github.com/kolanos/kohana-zend.git
