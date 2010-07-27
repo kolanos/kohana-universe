@@ -55,9 +55,6 @@
 [submodule "modules/cache"]
 	path = modules/cache
 	url = git://github.com/samsoir/kohana-cache.git
-[submodule "modules/unittest-legacy"]
-	path = modules/unittest-legacy
-	url = git://github.com/shadowhand/kohana-unittest.git
 [submodule "modules/unittest"]
 	path = modules/unittest
 	url = git://github.com/kohana/unittest.git
@@ -331,9 +328,6 @@
 [submodule "modules/purifier"]
 	path = modules/purifier
 	url = git://github.com/shadowhand/purifier.git
-[submodule "modules/jelly-folly"]
-	path = modules/jelly-folly
-	url = git://github.com/shadowhand/folly.git
 [submodule "modules/database-mssql"]
 	path = modules/database-mssql
 	url = git://github.com/xrado/kohana-mssql.git
