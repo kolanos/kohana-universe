@@ -451,3 +451,18 @@
 [submodule "modules/zend"]
 	path = modules/zend
 	url = git://github.com/kolanos/kohana-zend.git
+[submodule "modules/jelly-form"]
+	path = modules/jelly-form
+	url = git://github.com/memakeit/jelly-form.git
+[submodule "modules/jelly-filtered"]
+	path = modules/jelly-filtered
+	url = git://github.com/leth/jelly-filtered.git
+[submodule "modules/facebook"]
+	path = modules/facebook
+	url = git://github.com/zombor/Kohana-Facebook.git
+[submodule "modules/throttler"]
+	path = modules/throttler
+	url = git://github.com/fredwu/kthrottler.git
+[submodule "modules/depends"]
+	path = modules/depends
+	url = git://github.com/slik/Kohana-depends.git
