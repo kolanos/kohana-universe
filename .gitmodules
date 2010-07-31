@@ -256,9 +256,6 @@
 [submodule "modules/cdm"]
 	path = modules/cdm
 	url = git://github.com/jylinman/kohana-cdm.git
-[submodule "modules/footsteps"]
-	path = modules/footsteps
-	url = git://github.com/jmhobbs/kohana-footsteps.git
 [submodule "modules/ajax"]
 	path = modules/ajax
 	url = git://github.com/28litres/ajax.git
