@@ -463,3 +463,6 @@
 [submodule "modules/depends"]
 	path = modules/depends
 	url = git://github.com/slik/Kohana-depends.git
+[submodule "modules/codegen"]
+	path = modules/codegen
+	url = git://github.com/Yahasana/Kohana-Codegen.git
