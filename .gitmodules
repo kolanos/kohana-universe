@@ -193,9 +193,6 @@
 [submodule "modules/orm"]
 	path = modules/orm
 	url = git://github.com/kohana/orm.git
-[submodule "modules/jelly-auth"]
-	path = modules/jelly-auth
-	url = git://github.com/raeldc/jelly-auth.git
 [submodule "modules/b8"]
 	path = modules/b8
 	url = git://github.com/stensi/Kohana-B8.git
@@ -466,3 +463,6 @@
 [submodule "modules/codegen"]
 	path = modules/codegen
 	url = git://github.com/Yahasana/Kohana-Codegen.git
+[submodule "modules/jelly-auth"]
+	path = modules/jelly-auth
+	url = git://github.com/raeldc/jelly-auth.git
