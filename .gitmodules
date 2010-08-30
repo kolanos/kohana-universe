@@ -16,9 +16,6 @@
 [submodule "modules/userguide"]
 	path = modules/userguide
 	url = git://github.com/kohana/userguide.git
-[submodule "modules/sprig"]
-	path = modules/sprig
-	url = git://github.com/shadowhand/sprig.git
 [submodule "sprig-auth"]
 	path = sprig-auth
 	url = git://github.com/banks/sprig-auth.git
@@ -466,3 +463,6 @@
 [submodule "modules/jelly-auth"]
 	path = modules/jelly-auth
 	url = git://github.com/raeldc/jelly-auth.git
+[submodule "modules/hive"]
+	path = modules/hive
+	url = git://github.com/shadowhand/hive.git
