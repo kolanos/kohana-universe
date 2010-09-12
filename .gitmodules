@@ -466,3 +466,9 @@
 [submodule "modules/hive"]
 	path = modules/hive
 	url = git://github.com/shadowhand/hive.git
+[submodule "modules/tuffet"]
+	path = modules/tuffet
+	url = git://github.com/shadowhand/tuffet.git
+[submodule "modules/sprig"]
+	path = modules/sprig
+	url = git://github.com/sittercity/sprig.git
