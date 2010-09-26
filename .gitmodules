@@ -106,9 +106,6 @@
 [submodule "modules/akismet"]
 	path = modules/akismet
 	url = git://github.com/Greenek/kohana3-akismet.git
-[submodule "modules/swiftmailer"]
-	path = modules/swiftmailer
-	url = git://github.com/themusicman/ko3-swiftmailer.git
 [submodule "modules/console"]
 	path = modules/console
 	url = git://github.com/daveWid/console.git
