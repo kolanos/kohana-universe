@@ -205,9 +205,6 @@
 [submodule "modules/bamboo"]
 	path = modules/bamboo
 	url = git://github.com/vitch/bamboo.git
-[submodule "modules/xhtml"]
-	path = modules/xhtml
-	url = git://github.com/glydetech/ko3.xhtml.git
 [submodule "modules/tags"]
 	path = modules/tags
 	url = git://github.com/glydetech/ko3.tags.git
