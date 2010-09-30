@@ -466,3 +466,6 @@
 [submodule "modules/sprig"]
 	path = modules/sprig
 	url = git://github.com/sittercity/sprig.git
+[submodule "modules/jelly-auth"]
+	path = modules/jelly-auth
+	url = git://github.com/raeldc/jelly-auth.git
