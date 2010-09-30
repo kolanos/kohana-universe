@@ -457,9 +457,6 @@
 [submodule "modules/codegen"]
 	path = modules/codegen
 	url = git://github.com/Yahasana/Kohana-Codegen.git
-[submodule "modules/jelly-auth"]
-	path = modules/jelly-auth
-	url = git://github.com/raeldc/jelly-auth.git
 [submodule "modules/hive"]
 	path = modules/hive
 	url = git://github.com/shadowhand/hive.git
