@@ -469,3 +469,6 @@
 [submodule "modules/xhtml"]
 	path = modules/xhtml
 	url = git://github.com/glydetech/ko3.xhtml.git
+[submodule "modules/facebook2"]
+	path = modules/facebook2
+	url = git://github.com/jeremyf76/kohana-facebook.git
