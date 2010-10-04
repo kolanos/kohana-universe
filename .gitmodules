@@ -148,9 +148,6 @@
 [submodule "modules/github"]
 	path = modules/github
 	url = git://github.com/transphorm/github.git
-[submodule "modules/cache2"]
-	path = modules/cache2
-	url = git://github.com/necros/kohana-cache.git
 [submodule "modules/event2"]
 	path = modules/event2
 	url = git://github.com/Zeelot/event.git
