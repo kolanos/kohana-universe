@@ -433,9 +433,6 @@
 [submodule "modules/zend"]
 	path = modules/zend
 	url = git://github.com/kolanos/kohana-zend.git
-[submodule "modules/jelly-form"]
-	path = modules/jelly-form
-	url = git://github.com/memakeit/jelly-form.git
 [submodule "modules/jelly-filtered"]
 	path = modules/jelly-filtered
 	url = git://github.com/leth/jelly-filtered.git
@@ -469,3 +466,6 @@
 [submodule "modules/facebook2"]
 	path = modules/facebook2
 	url = git://github.com/jeremyf76/kohana-facebook.git
+[submodule "modules/jelly-form"]
+	path = modules/jelly-form
+	url = git://github.com/mintbridge/jellyform.git
