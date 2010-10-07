@@ -469,3 +469,15 @@
 [submodule "modules/jelly-form"]
 	path = modules/jelly-form
 	url = git://github.com/mintbridge/jellyform.git
+[submodule "modules/multiformat"]
+	path = modules/multiformat
+	url = git://github.com/Lowgain/kohana_multiformat.git
+[submodule "modules/kogit"]
+	path = modules/kogit
+	url = git://github.com/birkir/kogit.git
+[submodule "modules/pigeon"]
+	path = modules/pigeon
+	url = git://github.com/loonies/kohana-pigeon.git
+[submodule "modules/notice"]
+	path = modules/notice
+	url = git://github.com/loonies/kohana-notice.git
