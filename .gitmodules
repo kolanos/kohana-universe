@@ -481,3 +481,6 @@
 [submodule "modules/notice"]
 	path = modules/notice
 	url = git://github.com/loonies/kohana-notice.git
+[submodule "modules/kocrud"]
+	path = modules/kocrud
+	url = git://github.com/birkir/kocrud.git
