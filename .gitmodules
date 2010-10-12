@@ -484,3 +484,12 @@
 [submodule "modules/kocrud"]
 	path = modules/kocrud
 	url = git://github.com/birkir/kocrud.git
+[submodule "modules/koview"]
+	path = modules/koview
+	url = git://github.com/birkir/koview.git
+[submodule "modules/konilla"]
+	path = modules/konilla
+	url = git://github.com/birkir/konilla.git
+[submodule "modules/log-database"]
+	path = modules/log-database
+	url = git://github.com/b263/kohana-dblog.git
