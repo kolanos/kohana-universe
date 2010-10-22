@@ -394,9 +394,6 @@
 [submodule "modules/log"]
 	path = modules/log
 	url = git://github.com/lzyy/kohana-log.git
-[submodule "modules/form-object"]
-	path = modules/form-object
-	url = git://github.com/wadechristie/Kohana-FormObject.git
 [submodule "modules/jelly-torn"]
 	path = modules/jelly-torn
 	url = git://github.com/TdroL/kohana-jelly-torn.git
