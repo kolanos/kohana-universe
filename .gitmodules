@@ -490,3 +490,6 @@
 [submodule "modules/log-database"]
 	path = modules/log-database
 	url = git://github.com/b263/kohana-dblog.git
+[submodule "modules/oauth20"]
+	path = modules/oauth20
+	url = git://github.com/Yahasana/OAuth-2.0.git
