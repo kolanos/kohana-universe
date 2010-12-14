@@ -493,3 +493,6 @@
 [submodule "modules/oauth20"]
 	path = modules/oauth20
 	url = git://github.com/Yahasana/OAuth-2.0.git
+[submodule "modules/real-database"]
+	path = modules/real-database
+	url = git://github.com/cbandy/real-database.git
