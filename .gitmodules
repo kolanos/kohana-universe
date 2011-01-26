@@ -484,3 +484,6 @@
 [submodule "modules/real-database"]
 	path = modules/real-database
 	url = git://github.com/cbandy/real-database.git
+[submodule "modules/oauth2"]
+	path = modules/oauth2
+	url = git://github.com/kohana/oauth.git
