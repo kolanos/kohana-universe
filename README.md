@@ -13,3 +13,7 @@ And to update them all...
 > git submodule update
 
 Submodules indexes will be updated daily.
+
+##Want more modules?
+
+There's over [700 modules](https://github.com/search?langOverride=&q=kohana&repo=&start_value=1&type=Repositories) on GitHub now.
