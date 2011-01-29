@@ -319,9 +319,6 @@
 [submodule "modules/mongodb-odm"]
 	path = modules/mongodb-odm
 	url = git://github.com/colinmollenhour/mongodb-php-odm.git
-[submodule "modules/admin"]
-	path = modules/admin
-	url = git://github.com/vimofthevine/kohana-admin.git
 [submodule "modules/rbac"]
 	path = modules/rbac
 	url = git://github.com/lzyy/kohana-rbac.git
@@ -346,9 +343,6 @@
 [submodule "modules/pngtext"]
 	path = modules/pngtext
 	url = git://github.com/jheathco/kohana-pngtext.git
-[submodule "modules/azimauth"]
-	path = modules/azimauth
-	url = git://github.com/tommusic/Kohana-Azimauth.git
 [submodule "modules/orm-mptt"]
 	path = modules/orm-mptt
 	url = git://github.com/evopix/orm-mptt.git
@@ -493,3 +487,9 @@
 [submodule "modules/flickr"]
 	path = modules/flickr
 	url = git://github.com/jeanmask/flickr.git
+[submodule "modules/admin"]
+	path = modules/admin
+	url = git://github.com/vimofthevine/kohana-admin.git
+[submodule "modules/azimauth"]
+	path = modules/azimauth
+	url = git://github.com/tommusic/Kohana-Azimauth.git
