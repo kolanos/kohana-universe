@@ -487,3 +487,9 @@
 [submodule "modules/oauth2"]
 	path = modules/oauth2
 	url = git://github.com/kohana/oauth.git
+[submodule "modules/minify2"]
+	path = modules/minify2
+	url = git://github.com/gahgneh/minify-kohana.git
+[submodule "modules/flickr"]
+	path = modules/flickr
+	url = git://github.com/jeanmask/flickr.git
